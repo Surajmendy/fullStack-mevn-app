@@ -17,9 +17,6 @@ clone repository <br />
  change directory to fullStack-mevn-app folder <br />
    ``` cd fullStack-mevn-app ```
 
--checkout to master branch <br />
-``` git checkout master``` <br />
-
 # Configure Database
 I have created a mongodb Atlas database and have whitelisted all ip addresses in order to make it easy to run the application.
 To change the database, navigate to the backend directory and open config.js
