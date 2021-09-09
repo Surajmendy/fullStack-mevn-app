@@ -1,7 +1,7 @@
-frontend/node_modules
-backend/node_modules
+./frontend/node_modules
+./backend/node_modules
 
 # Log files
 frontend/yarn-error.log*
-.idea
+./frontend/.idea
 .DS_Store
