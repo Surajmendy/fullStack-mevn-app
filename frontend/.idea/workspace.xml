@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="01d7db58-1e3e-4dd0-a0af-c08ef778b21e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qylMaEOdfzwGUlhpIpB0Sreuou" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dell\Desktop\PersonalProjects\ProTranslatingAssessment\frontend\src" />
+      <recent name="C:\Users\Dell\Desktop\PersonalProjects\ProTranslatingAssessment\frontend\public" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01d7db58-1e3e-4dd0-a0af-c08ef778b21e" name="Default Changelist" comment="" />
+      <created>1618059663901</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618059663901</updated>
+      <workItem from="1618059669205" duration="19976000" />
+      <workItem from="1618119310449" duration="43405000" />
+      <workItem from="1618304120032" duration="384000" />
+      <workItem from="1618304863166" duration="444000" />
+      <workItem from="1618305467166" duration="225000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="368" y="34" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1618064322467">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="368" y="34" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1618064322467" />
+    <state width="1469" height="251" key="GridCell.Tab.0.bottom" timestamp="1618303586288">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1469" height="251" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1618152483753" />
+    <state width="1469" height="251" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1618303586288" />
+    <state width="1469" height="251" key="GridCell.Tab.0.center" timestamp="1618303586288">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1469" height="251" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1618152483753" />
+    <state width="1469" height="251" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1618303586288" />
+    <state width="1469" height="251" key="GridCell.Tab.0.left" timestamp="1618303586288">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1469" height="251" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1618152483751" />
+    <state width="1469" height="251" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1618303586288" />
+    <state width="1469" height="251" key="GridCell.Tab.0.right" timestamp="1618303586288">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1469" height="251" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1618152483753" />
+    <state width="1469" height="251" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1618303586288" />
+    <state x="35" y="0" key="SettingsEditor" timestamp="1618305492249">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="35" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1618305492249" />
+  </component>
+</project>
